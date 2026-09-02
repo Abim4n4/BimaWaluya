@@ -1,0 +1,6 @@
+{
+  "name": "BimaWaluya Link Budget Simulasi",
+  "description": "Sistem simulasi dan perhitungan link budget redaman optik FTTH (dBm loss) lapangan dengan standar ITU-T G.671/G.984. Copyright @rhd2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
